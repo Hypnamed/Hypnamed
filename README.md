@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hypnamed
-- 👀 I’m interested in Game Developping and Web Designing
+- 👀 I’m interested in Game Developping and Front-End Web Developping
 - 🌱 I’m currently learning C# and Python
 - 📫 demirtas.eren@outlook.com
 
