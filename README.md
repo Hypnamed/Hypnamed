@@ -8,14 +8,14 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hypnamed&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hypnamed&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
 
 <div align="center">
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Hypnamed&theme=github_dark&show_icons=true)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Hypnamed&theme=dark&show_icons=true)
 
 
 </div>
