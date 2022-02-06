@@ -1,8 +1,13 @@
+<h1 align="center">
+- 👋 Hi, I’m @Hypnamed
+<hr>
 <div align="center">
-  - 👋 Hi, I’m @Hypnamed
 - 👀 I’m interested in Game Developping and Front-End Web Developping
+<br>
 - 🌱 I’m currently learning C# and React
+<br>
 - 📫 ilkeerendemirtas@outlook.com
+<br>
 <div>
 
 <h3 align="center"><b>Languages and Tools:</b></h3>
