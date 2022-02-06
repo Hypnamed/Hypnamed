@@ -1,7 +1,6 @@
 <h1 align="center">
 👋 Hi, I’m @Hypnamed
 </h1>
-<hr>
 <div align="center">
 - 👀 I’m interested in Game Developping and Front-End Web Developping
 <br>
