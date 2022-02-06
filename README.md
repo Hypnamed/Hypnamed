@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"></h1>
 - 👋 Hi, I’m @Hypnamed
 <hr>
 <div align="center">
