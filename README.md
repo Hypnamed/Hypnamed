@@ -2,7 +2,7 @@
 👋 Hi, I’m @Hypnamed
 </h1>
 <div align="center">
-- 👀 I’m interested in Game Developping and Front-End Web Developping
+- 👀 I’m interested in Game Developing and Front-End Web Developping
 <br>
 - 🌱 I’m currently learning C# and React
 <br>
