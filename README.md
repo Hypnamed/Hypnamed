@@ -6,8 +6,6 @@
 <br>
 - 🌱 I’m currently learning C# and React
 <br>
-- 📫 ilkeerendemirtas@outlook.com
-<br>
 <div>
 
 <h3 align="center"><b>Languages and Tools:</b></h3>
